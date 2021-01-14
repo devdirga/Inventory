@@ -1,0 +1,2 @@
+import axios from '../../plugin/axios'
+export default { get: async ({ entityID, skip = 0, limit = 10, userID = '', activityTypeID = '', locationID = '', startDate = '', endDate = '', search = '', }) => { return await axios.get(`/activity/log/list?entityID=${entityID}&skip=${skip}&limit=${limit}&userID=${userID}&activityTypeID=${activityTypeID}&locationID=${locationID}&startDate=${startDate}&endDate=${endDate}&search=${search}`) } }

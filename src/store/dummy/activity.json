@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "activityType": {
+      "activityTypeID": "string",
+      "activityTypeName": "Check In"
+    },
+    "location": {
+      "locationID": "1",
+      "locationName": "Alfa Office"
+    },
+    "dateTime": "2020-05-12 12:23:43"
+  },
+  {
+    "id": 2,
+    "activityType": {
+      "activityTypeID": "string",
+      "activityTypeName": "Check In"
+    },
+    "location": {
+      "locationID": "1",
+      "locationName": "Alfa Office"
+    },
+    "dateTime": "2020-05-12 12:23:43"
+  },
+  {
+    "id": 3,
+    "activityType": {
+      "activityTypeID": "string",
+      "activityTypeName": "Check In"
+    },
+    "location": {
+      "locationID": "1",
+      "locationName": "Alfa Office"
+    },
+    "dateTime": "2020-05-13 12:23:43"
+  },
+  {
+    "id": 4,
+    "activityType": {
+      "activityTypeID": "string",
+      "activityTypeName": "Check In"
+    },
+    "location": {
+      "locationID": "1",
+      "locationName": "Alfa Office"
+    },
+    "dateTime": "2020-05-14 12:23:43"
+  },
+  {
+    "id": 5,
+    "activityType": {
+      "activityTypeID": "string",
+      "activityTypeName": "Check In"
+    },
+    "location": {
+      "locationID": "1",
+      "locationName": "Alfa Office"
+    },
+    "dateTime": "2020-05-14 12:23:43"
+  },
+  {
+    "id": 6,
+    "activityType": {
+      "activityTypeID": "string",
+      "activityTypeName": "Check In"
+    },
+    "location": {
+      "locationID": "1",
+      "locationName": "Alfa Office"
+    },
+    "dateTime": "2020-05-15 12:23:43"
+  },
+  {
+    "id": 7,
+    "activityType": {
+      "activityTypeID": "string",
+      "activityTypeName": "Check In"
+    },
+    "location": {
+      "locationID": "1",
+      "locationName": "Alfa Office"
+    },
+    "dateTime": "2020-05-15 12:23:43"
+  }
+]

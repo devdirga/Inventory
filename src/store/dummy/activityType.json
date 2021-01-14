@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Check In",
+    "icon": "home",
+    "route": "CheckInOut",
+    "title": "Check In"
+  },
+  {
+    "id": 2,
+    "name": "Check Out",
+    "route": "CheckInOut",
+    "title": "Check Out",
+    "icon": "briefcase"
+  },
+  {
+    "id": 3,
+    "name": "Visit",
+    "icon": ""
+  },
+  {
+    "id": 4,
+    "name": "Break Out"
+  },
+  {
+    "id": 5,
+    "name": "Break In"
+  },
+  {
+    "id": 6,
+    "name": "Activity 6"
+  },
+  {
+    "id": 7,
+    "name": "Activity 7"
+  }
+]

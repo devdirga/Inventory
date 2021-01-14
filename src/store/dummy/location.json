@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "name": "Alfa Office",
+    "address": "Jalan Bendul No. 4",
+    "latitude": -7.305598,
+    "longitude": 112.743188,
+    "radius": "100",
+    "tags": ["string"],
+    "isVirtual": true,
+    "createdBy": "string",
+    "createdDate": "string",
+    "lastUpdatedDate": "string"
+  },
+  {
+    "id": "2",
+    "name": "HQ Office",
+    "address": "Jalan Sambas No. 1",
+    "latitude": -7.287627,
+    "longitude": 112.73352,
+    "radius": "100",
+    "tags": ["string"],
+    "isVirtual": true,
+    "createdBy": "string",
+    "createdDate": "string",
+    "lastUpdatedDate": "string"
+  },
+  {
+    "id": "3",
+    "name": "Home Office",
+    "address": "Jalan Bentul No. 3",
+    "latitude": -7.305179,
+    "longitude": 112.743287,
+    "radius": "100",
+    "tags": ["string"],
+    "isVirtual": true,
+    "createdBy": "string",
+    "createdDate": "string",
+    "lastUpdatedDate": "string"
+  }
+]
